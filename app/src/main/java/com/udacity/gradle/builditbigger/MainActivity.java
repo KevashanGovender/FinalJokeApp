@@ -8,7 +8,6 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.example.jokedisplaylibrary.JokeDisplayActivity;
-import com.example.jokelib.JokeGenerator;
 
 
 public class MainActivity extends AppCompatActivity implements IFetchJokeView {
